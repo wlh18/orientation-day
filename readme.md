@@ -28,7 +28,7 @@ Once students have installed VSCode, have students (those with Mac), move the ap
 
 Students with MacOS will need to install the code command. This is done by typing `command, shift, p` to open the search bar. Type `shell command` and have students select the first option.
 
-Show students how to open the terminal in VSCode, and have them check if their terminal is running on `Node` or `Bash`. If it's running on `Powershell` instead, have the students change the default terminal shell by typing `command, shift, p` or `ctrl, shift, p` to open the search bar. Once the search bar is opened, have the students type `select default shell`. They will be able to select Node or Bash as an option.
+Show students how to open the terminal in VSCode, and have them check if their terminal is running on `Bash`. If it's running on `Powershell` instead, have the students change the default terminal shell by typing `command, shift, p` or `ctrl, shift, p` to open the search bar. Once the search bar is opened, have the students type `select default shell`. They will be able to select Bash as an option.
 
 ### Repl.it
 Link - https://repl.it/

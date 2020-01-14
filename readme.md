@@ -3,6 +3,8 @@ This repository contains a list of installs students need to perform to set up t
 
 Here's the slideshow for the day: https://slides.com/matias_perez/lehi-web-immersive-orientation/#/
 
+## Downloads
+<details>
 ### Slack
 Link - https://slack.com/
 
@@ -46,3 +48,10 @@ Introduce students to the LMS and how to navigate it. If students are unable to 
 Link - http://q.devmountain.com
 
 Introduce the Q to students, and explain expectations for using the Q. It's generally a good idea to recommend the students bookmark the Q so they have it easily accessible.
+</details>
+
+## Mini-Project
+https://github.com/DevMountain/learn-git/tree/master
+
+## Afternoon-Project
+https://lms.devmountain.com/courses/70/pages/day-1-afternoon-project?module_item_id=17351

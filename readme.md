@@ -1,4 +1,4 @@
-# Orientation Day
+# Orientation Day Lecture Notes
 This repository contains a list of installs students need to perform to set up their development environment.
 
 Here's the slideshow for the day: https://slides.com/matias_perez/lehi-web-immersive-orientation/#/

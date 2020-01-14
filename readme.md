@@ -5,6 +5,7 @@ Here's the slideshow for the day: https://slides.com/matias_perez/lehi-web-immer
 
 ## Downloads
 <details>
+  <summary>See All Downloads</summary>
   
 ### Slack
 Link - https://slack.com/

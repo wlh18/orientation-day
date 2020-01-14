@@ -1,6 +1,8 @@
 # Orientation Day
 This repository contains a list of installs students need to perform to set up their development environment.
 
+Here's the slideshow for the day: https://slides.com/matias_perez/lehi-web-immersive-orientation/#/
+
 ### Slack
 Link - https://slack.com/
 
